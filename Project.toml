@@ -1,0 +1,13 @@
+name = "FC"
+uuid = "477ca321-a478-4968-ac73-0c28cfa095a3"
+authors = ["Sebastien Francoeur"]
+version = "0.0.1-DEV"
+
+[compat]
+julia = "1.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
