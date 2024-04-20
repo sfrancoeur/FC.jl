@@ -3,8 +3,6 @@ module FC
 # This defines fondamental constants
 # It does not export anything, instead it requires using FC. (+name of the constant)
 
-module FC
-
 using Unitful
 
 c=2.99792458e8u"m/s"
